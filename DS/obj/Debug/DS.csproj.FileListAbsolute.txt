@@ -1,0 +1,6 @@
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\bin\Debug\DS.exe.config
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\bin\Debug\DS.exe
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\bin\Debug\DS.pdb
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\obj\Debug\DS.exe
+d:\users\sjaiswal2\documents\visual studio 2012\Projects\DS\DS\obj\Debug\DS.pdb
